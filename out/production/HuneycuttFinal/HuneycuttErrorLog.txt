@@ -1,0 +1,5 @@
+session started 2020/07/17 23:27:42
+Importing data from file...
+Account data array full: Accounts at line 11 and later will not be imported
+10 records successfully imported
+session ended 2020/07/17 23:27:57
